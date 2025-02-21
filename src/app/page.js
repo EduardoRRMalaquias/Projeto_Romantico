@@ -43,6 +43,7 @@ export default function Home() {
       style={{
         paddingLeft: '32px',
         paddingRight: '32px',
+        height: '100vh',
       }}
       className="App flex flex-col gap-8 row-start-2 items-center sm:items-start"
     >
